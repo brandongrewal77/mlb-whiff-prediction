@@ -16,7 +16,7 @@ The modeling dataset was restricted to pitches on which the batter swung:
 - **Contact:** foul ball, ball put into play, or foul tip
 - Bunt attempts were excluded
 
-The development dataset contained 12,082 swings with an approximately 23% whiff rate.
+The development dataset contained 12,081 swings with an approximately 23% whiff rate.
 
 ## Methodology
 
